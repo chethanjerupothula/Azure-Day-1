@@ -1,3 +1,6 @@
+!pip install openai
+! pip install azure-ai-ml
+!python -m pip install azure-identity
 from openai import AzureOpenAI
 endpoint = "https://project5635632-resource.services.ai.azure.com/api/projects/project5635632"
 api_key = "G8XxpQn3oWmCohY1Q61HadKnAUJwYtSR1wUUiQ3IuWgL1jemyoquJQQJ99CKACF24PCXJ3w3AAAAACOGBzUX"
